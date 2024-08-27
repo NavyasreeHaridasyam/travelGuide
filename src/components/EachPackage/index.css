@@ -1,0 +1,23 @@
+.place-container {
+  width: 43vw;
+  display: flex;
+  flex-direction: column;
+
+  margin: 20px;
+  background-color: #ffffff;
+}
+.place-image {
+  width: 43vw;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #475569;
+  padding-left: 10px;
+}
+.description {
+  font-size: 15px;
+  font-family: 'Roboto';
+  color: #64748b;
+  padding: 10px;
+}
